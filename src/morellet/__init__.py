@@ -27,5 +27,5 @@ def generate_morellet(scale=1, width=200, height=200, colors=None):
     return im
 
 #generate_morellet().show()
-for i in range(9):
-    generate_morellet(5).save('morellet' + str(i+1) + '.png')
+#for i in range(9):
+#    generate_morellet(5).save('morellet' + str(i+1) + '.png')
